@@ -86,6 +86,6 @@ Hazırladığınız dosyaları repository'e yükleyin:
 - Değişiklikleri GitHub'a gönderin:
 ```sh
 git add .
-git commit -m "Add example codes for C#, Java, PHP, and Ruby"
+git commit -m "Add example codes for  Java"
 git push origin main
 
